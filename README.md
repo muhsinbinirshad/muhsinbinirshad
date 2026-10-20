@@ -13,18 +13,12 @@
   <img src="https://img.shields.io/badge/Pentester-since%202019-1F44D6?style=for-the-badge&labelColor=0D1117" alt="Pentester since 2019" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhsinbinirshad&label=profile%20views&color=1F44D6&style=flat-square&labelColor=0D1117" alt="Profile views" />
-  <a href="https://github.com/muhsinbinirshad?tab=followers"><img src="https://img.shields.io/github/followers/muhsinbinirshad?label=followers&style=flat-square&color=1F44D6&labelColor=0D1117&logo=github&logoColor=4A6CF7" alt="Followers" /></a>
-  <a href="https://github.com/muhsinbinirshad?tab=repositories"><img src="https://img.shields.io/github/stars/muhsinbinirshad?label=stars&style=flat-square&color=1F44D6&labelColor=0D1117&logo=github&logoColor=4A6CF7" alt="Stars" /></a>
-  <img src="https://img.shields.io/badge/based%20in-Kerala%2C%20India-1F44D6?style=flat-square&labelColor=0D1117" alt="Based in Kerala, India" />
-</p>
 
 ---
 
 ### Hey, I'm Muhsin
 
-I'm a pentester from Kerala. I got into security back in 2019, mostly because I wanted to know how
+I'm a pentester from Kerala,India. I got into security back in 2019, mostly because I wanted to know how
 things break, and somehow that turned into a career. Seven years later I'm still learning something new
 almost every week, which I've accepted is just how this field works. Anyone who says they've figured it
 all out is either lying or selling a course.
