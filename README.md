@@ -62,7 +62,7 @@ ideas for PentOne came from.
 ### The hardware thing
 
 For the last two years I've designed the official PCB badges for [c0c0n.org](https://c0c0n.org), the **security and hacking
-conference by Kerala Police**. Schematic, layout, firmware, getting them manufactured, the whole thing.
+conference by Kerala Police**. Schematic, layout, design, getting them manufactured, the whole thing.
 
 Turns out breaking software wasn't enough, so now I can break hardware I made myself too.
 
