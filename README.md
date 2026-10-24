@@ -137,37 +137,6 @@ Turns out breaking software wasn't enough, so now I can break hardware I made my
 
 ---
 
-### Open source
-
-<p align="center">
-  <a href="https://github.com/captrit/netmap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=captrit&repo=netmap&hide_border=true&bg_color=0D1117&title_color=4A6CF7&text_color=C9D1D9&icon_color=4A6CF7&show_owner=true&description_lines_count=2" alt="captrit/netmap" /></a>
-</p>
-
-**[NetMap](https://github.com/captrit/netmap)** is a network discovery and topology mapping tool we built at Captrit.
-You point it at a subnet and it sweeps it fast, fingerprints whatever is alive (printers included, because
-there's always a printer), flags the usual misconfigs like unauthenticated databases, open SMB shares and
-anonymous FTP, and streams everything live into a web UI. Works behind WireGuard and Tailscale too, and
-exports to JSON, CSV or Nmap-style XML so it plays nice with the rest of your workflow.
-
-Basically the thing I wanted on every internal pentest, so we made it.
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/github/license/captrit/netmap?style=flat-square&color=1F44D6&labelColor=0D1117" alt="License" />
-  <img src="https://img.shields.io/github/stars/captrit/netmap?style=flat-square&color=1F44D6&labelColor=0D1117&logo=github" alt="Stars" />
-</p>
-
-```bash
-git clone https://github.com/captrit/netmap && cd netmap
-docker compose up --build    # then open http://localhost:8000
-```
-
----
-
 ### Outside of work
 
 I like travelling solo and going to places I don't know much about. Same as pentesting really,
